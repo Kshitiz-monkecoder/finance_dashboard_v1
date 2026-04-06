@@ -102,7 +102,12 @@ Server starts at **http://localhost:3000**
 🚀 Server running on port 3000
 📖 API docs: http://localhost:3000/api-docs
 ❤️  Health:   http://localhost:3000/health
+
 ```
+
+## ER Diagram
+
+![Finance Dashboard ER Diagram](./assets/Finance_dashboard_ER_Diagram.png)
 
 ### Load demo data (recommended for testing)
 
